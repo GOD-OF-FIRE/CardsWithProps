@@ -11,7 +11,6 @@ class App extends Component {
         <Card ques="What is your Age ?" ans= "My age is 22"/>
         <Card ques="Where you Live ?" ans="I live in Prayagraj"/>
         <Card ques="Where do you Study" ans="I study at SRM IST"/>
-
       </div>
     );
   }
