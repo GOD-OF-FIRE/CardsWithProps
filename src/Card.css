@@ -1,0 +1,7 @@
+.card-ctn{
+    background-color: aqua;
+    width: 20em;
+    min-height: 8em;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
